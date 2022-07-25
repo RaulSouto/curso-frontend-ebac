@@ -1,6 +1,6 @@
 # curso-frontend-ebac
 
-# GIT
+# GIT# GIT
 ## versionamento
     - Histórico
     - Conceitos de versionamento
@@ -12,17 +12,17 @@
     File A | Version 1 | Version 2
     File B | Version 1 | Version 2
 
-    ## Instalação do GIT
+ ## Instalação do GIT
     Windows: https://git-scm.com/download/win 
     Linux (apt-get): sudo apt-get install git
     Mac (brew): brew install git 
 
-    ## Criar projeto no GhitHub 
+ ## Criar projeto no GhitHub 
 
-    ## Clonnar projetos
+## Clonnar projetos
 
-    ## Comits
+ ## Comits
     Iformação de alteração
     - após testado seu código
 
-    ## GitFlow
+ ## GitFlow
