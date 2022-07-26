@@ -18,6 +18,8 @@
  ## Criar projeto no GhitHub 
 
 ## Clonnar projetos
+   git clone gh repo clone RaulSouto/curso-frontend-ebac
+   
 
  ## Comits
     Iformação de alteração
