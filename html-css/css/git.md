@@ -24,6 +24,9 @@
  ## Comits
     Iformação de alteração
     - após testado seu código
+    - git add *
+    - git commit -m "mensagem"
+
 
  ## GitFlow
 
